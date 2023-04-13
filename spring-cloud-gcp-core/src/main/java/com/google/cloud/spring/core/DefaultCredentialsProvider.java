@@ -140,4 +140,5 @@ public class DefaultCredentialsProvider implements CredentialsProvider {
 
     return CREDENTIALS_SCOPES_LIST;
   }
+  //for test
 }
